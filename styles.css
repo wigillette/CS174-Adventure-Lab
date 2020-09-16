@@ -1,0 +1,17 @@
+#locationLabel {
+    font-size: 5em;
+    text-align: center;
+    color: grey;
+    font-family: 'Trebuchet MS';
+}
+
+#descriptionLabel {
+    font-size: 3em;
+    text-align: center;
+    color: darkgrey;
+    font-family: 'Trebuchet MS';
+}
+
+body{
+    background-color: lightblue;
+}
